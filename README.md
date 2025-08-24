@@ -2,7 +2,6 @@
 
 🎓 Master of Artificial Intelligence @ UTS (Graduating Dec 2025)  
 🤖 Interested in Machine Learning, Deep Learning, and Applied AI  
-📊 Projects: Credit Card Fraud Detection, Autonomous Driving (CNN + LTC), AI Stock Predictor  
 🌏 Open to internships in AI/Data Science/Software Engineering (Oct 2025 – Jan 2026)  
 📬 Reach me: bajrangkamble585@gmail.com | LinkedIn: https://www.linkedin.com/in/prajakta-kamble-755b931b0/
 
