@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Prajakta Kamble
 
-🎓 Master of Artificial Intelligence @ UTS (Graduating Dec 2025)  
+🎓 Master of Artificial Intelligence @ UTS 
 🤖 Interested in Machine Learning, Deep Learning, and Applied AI  
-🌏 Open to internships in AI/Data Science/Software Engineering
+🌏 Open to Jobs in AI/Data Science/Software Engineering
 📬 Reach me: bajrangkamble585@gmail.com | LinkedIn: https://www.linkedin.com/in/prajakta-kamble-755b931b0/
 
 <!---
