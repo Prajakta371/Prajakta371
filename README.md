@@ -2,7 +2,7 @@
 
 🎓 Master of Artificial Intelligence @ UTS 
 🤖 Interested in Machine Learning, Deep Learning, and Applied AI  
-🌏 Open to Jobs in AI/Data Science/Software Engineering
+🌏 Open to roles in Software Engineering, Data, IT, and AI/ML
 📬 Reach me: bajrangkamble585@gmail.com | LinkedIn: https://www.linkedin.com/in/prajakta-kamble-755b931b0/
 
 <!---
